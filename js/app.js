@@ -68,7 +68,7 @@ Player.prototype.handleInput = function(e) {
     // if down key is pressed and player is not on edge of map decrement y
     else if (e === "down" && this.y != 400) {
         this.y = this.y + 85;
-    };
+    }
 };
 
 // Update the player position
