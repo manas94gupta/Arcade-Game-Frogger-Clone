@@ -47,7 +47,7 @@ Enemy.prototype.render = function() {
 // Player class to instantiate new player
 var Player = function() {
     this.sprite = 'images/char-boy.png';
-    this.x = 200;
+    this.x = Math.floor(Math.random() * 5) * 100;
     this.y = 400;
 };
 
