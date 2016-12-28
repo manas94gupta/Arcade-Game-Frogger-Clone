@@ -1,9 +1,9 @@
-# Classic Arcade Game
+# Bug Me Not
 
 ## Introduction
-This is a clone of a classic arcade game called frogger. Working of the game engine is in engine.js,
-along with the helper functions in resource.js. The enemy and player object data and their
-functioning is in app.js.
+Bug Me Not is a simple arcade game where the user has to avoid the bugs and reach the end.      
+Working of the game engine is in engine.js, along with the helper functions in resource.js.        
+The enemy and player object data and their functioning is in app.js.
 
 ## How to Play
 * Open index.html in a browser.
